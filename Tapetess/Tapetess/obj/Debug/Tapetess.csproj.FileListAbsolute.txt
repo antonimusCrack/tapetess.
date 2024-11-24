@@ -1,0 +1,7 @@
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\obj\Debug\Tapetess.csprojResolveAssemblyReference.cache
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\obj\Debug\Tapetess.MainForm.resources
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\obj\Debug\Tapetess.csproj.GenerateResource.Cache
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\bin\Debug\Tapetess.exe
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\bin\Debug\Tapetess.pdb
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\obj\Debug\Tapetess.exe
+C:\Users\yurem\Documents\SharpDevelop Projects\Tapetess\Tapetess\obj\Debug\Tapetess.pdb
